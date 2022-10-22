@@ -1,6 +1,3 @@
 [submodule "ext"]
 	path = ext
 	url = https://github.com/sohtamei/TuKuRutch.ext.git
-[submodule "analogRemote"]
-	path = ext/arduinoLib/analogRemote
-	url = https://github.com/sohtamei/analogRemote.git
