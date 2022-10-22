@@ -1,0 +1,4 @@
+<resources>
+    <resource version="1.0.10" name="locale"    path="">http://download.makeblock.cc/mblock/resources/locale/locale.zip</resource>
+    <resource version="1.0.8"  name="ext"       path="ext">http://download.makeblock.cc/mblock/resources/tools/hex.zip</resource>
+</resources>

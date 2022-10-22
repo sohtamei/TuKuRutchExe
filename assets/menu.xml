@@ -1,0 +1,57 @@
+<menu>
+	<subMenu name="File" label="文件">
+<!--
+		<item name="Undelete" label="撤销删除" />
+-->
+		<item name="New" label="新建项目" keyEquivalent="N" />
+		<item isSeparator="true" />
+		<item name="Load Project" label="打开项目" keyEquivalent="o" />
+		<item name="Save Project" label="保存项目" keyEquivalent="s" />
+		<item name="Save Project As" label="另存项目" keyEquivalent="S" />
+	</subMenu>
+	<subMenu name="Connect" label="连接">
+		<item name="Set Robot to PC connection mode" label="安装固件" />
+		<item name="Reset Default Program" label="恢复出厂程序" />
+		<item name="Setup WiFi" label="Setup WiFi" />
+		<item name="(for network-port issue)" label="自定义连接" />
+		<item isSeparator="true" />
+	</subMenu>
+	<subMenu name="Robots" label="扩展">
+		<item name="Clear Cache" label="清空缓存" />
+		<item name="Open PC mode firmware"/>
+		<item name="Open Normal firmware"/>
+		<item isSeparator="true" />
+	</subMenu>
+	<subMenu name="Language" label="语言">
+		<item isSeparator="true" />
+		<subMenu name="set font size" label="设置字体大小" >
+			<item name="setFontSize" label="8" />
+			<item name="setFontSize" label="9" />
+			<item name="setFontSize" label="10" />
+			<item name="setFontSize" label="11" />
+			<item name="setFontSize" label="12" />
+			<item name="setFontSize" label="13" />
+			<item name="setFontSize" label="14" />
+			<item name="setFontSize" label="15" />
+			<item name="setFontSize" label="16" />
+			<item name="setFontSize" label="17" />
+			<item name="setFontSize" label="18" />
+			<item name="setFontSize" label="19" />
+			<item name="setFontSize" label="20" />
+			<item name="setFontSize" label="21" />
+			<item name="setFontSize" label="22" />
+			<item name="setFontSize" label="23" />
+			<item name="setFontSize" label="24" />
+		</subMenu>
+	</subMenu>
+	<subMenu name="Help" label="帮助">
+		<item name="Support Site"/>
+		<item name="Robot/Board Information"/>
+		<item name="About TuKuRutch"/>
+		<item isSeparator="true" />
+		<item name="Enable Log"/>
+	</subMenu>
+	<subMenu name=" ShowStage "/>
+	<subMenu name=" Standard "/>
+	<subMenu name=" Arduino "/>
+</menu>
