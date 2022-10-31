@@ -31,9 +31,11 @@ git submodule update
 ## ArduinoIDE環境setup
 
 現在のTuKuRutchEXEの対応Arduino-IDE環境は下記の通りです。  
-　Atmega328  
-　Arduino-ESP32 2.0.4、board manager - ESP32 Dev Module固定  
-　raspberryPI pico  
+
+* Atmega328  
+* Arduino-ESP32 2.0.4 
+* raspberryPI pico  
+
 Arudino-ESP32不具合対策など個別に修正を行っているため、buildでエラーが出る場合は後者のつくるっち用ArduinoIDEを使用して下さい。
 
 * 現在お使いのArduinoIDEを使う場合  
