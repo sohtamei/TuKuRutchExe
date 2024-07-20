@@ -1,3 +1,9 @@
+
+**つくるっちEXE / TukurutchEXEは廃止しました、**  
+[つくるっち用ArduinoIDE環境](https://sohtamei.github.io/docs/SetupArduinoIDE.html) を利用して下さい。  
+
+----
+
 # TuKuRutch EXE
 
 つくるっちのFWとscratch拡張を自動生成する環境です。  
